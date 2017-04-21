@@ -1,0 +1,8 @@
+[Activity]
+name = GTK Draw Area Example
+activity_version = 1
+bundle_id = org.sugarlabs.drawareaexample
+exec = sugar-activity activity.DrawAreaExample
+icon = activity-icon
+show_launcher = True
+ 
